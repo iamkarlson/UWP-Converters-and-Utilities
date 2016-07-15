@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>TommasoScalici.UWPConvertersAndUtilities</id>
+        <version>1.0.0.0</version>
+        <title>UWP Converters and Utilities</title>
+        <authors>Tommaso Scalici</authors>
+        <owners>Tommaso Scalici</owners>
+        <licenseUrl>https://github.com/TommasoScalici/MVVMExtensions/blob/master/LICENSE.md</licenseUrl>
+        <projectUrl>https://github.com/TommasoScalici/MVVMExtensions</projectUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>This package is a useful collection of Value Converters and other useful shortcuts/utilities to improve your UWA development.
+
+List of Value Converters:
+• BitmapImageConverter
+• BooleanNegationConverter
+• BooleanToOpacityConverter
+• BooleanToVisibilityConverter
+• ColorToBrushConverter
+• DateTimeToLocalizedStringConverter
+• NullToBooleanConverter
+• ResourceStringConverter
+
+List of utilities:
+• DispatcherExtensions</description>
+        <summary>UWP converters and utilities</summary>
+        <releaseNotes />
+        <copyright>Copyright © 2016 Tommaso Scalici</copyright>
+        <tags>IValueConverter Value Converter Dispatcher UWA UWP</tags>
+    </metadata>
+    <files />
+</package>
