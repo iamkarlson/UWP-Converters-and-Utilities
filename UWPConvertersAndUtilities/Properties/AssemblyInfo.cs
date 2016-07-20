@@ -6,5 +6,5 @@
 [assembly: AssemblyProduct("UWP Converters and Utilities")]
 [assembly: AssemblyCopyright("Copyright © 2016 Tommaso Scalici")]
 
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.0.1")]
+[assembly: AssemblyFileVersion("1.0.0.1")]

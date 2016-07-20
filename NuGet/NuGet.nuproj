@@ -22,18 +22,18 @@
   <Import Project="$(NuProjPath)\NuProj.props" Condition="Exists('$(NuProjPath)\NuProj.props')" />
   <PropertyGroup Label="Configuration">
     <Id>TommasoScalici.UWPConvertersAndUtilities</Id>
-    <Version>1.0.0.0</Version>
+    <Version>1.0.0.1</Version>
     <Title>UWP Converters and Utilities</Title>
     <Authors>Tommaso Scalici</Authors>
     <Owners>Tommaso Scalici</Owners>
     <Summary>Collection of useful Value Converters and other utilities.</Summary>
     <Description>This package is a useful collection of Value Converters and other useful shortcuts/utilities to improve your UWA development.
 </Description>
-    <ReleaseNotes>IValueConverter Value Converter Dispatcher UWA UWP </ReleaseNotes>
-    <ProjectUrl>https://github.com/TommasoScalici/MVVMExtensions</ProjectUrl>
-    <LicenseUrl>https://github.com/TommasoScalici/MVVMExtensions/blob/master/LICENSE.md</LicenseUrl>
+    <ReleaseNotes>First release</ReleaseNotes>
+    <ProjectUrl>https://github.com/TommasoScalici/UWP-Converters-and-Utilities</ProjectUrl>
+    <LicenseUrl>https://github.com/TommasoScalici/UWP-Converters-and-Utilities/blob/master/LICENSE.md</LicenseUrl>
     <Copyright>Copyright © 2016 Tommaso Scalici</Copyright>
-    <Tags>NuGet</Tags>
+    <Tags>IValueConverter Value Converter Dispatcher UWA UWP </Tags>
     <RequireLicenseAcceptance>true</RequireLicenseAcceptance>
   </PropertyGroup>
   <Import Project="$(NuProjPath)\NuProj.targets" />
